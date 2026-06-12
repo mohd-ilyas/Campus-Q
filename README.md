@@ -1,6 +1,7 @@
 # CampusQ
 
 Smart Campus Queue Optimization and Canteen Pre-Ordering System for colleges.
+Deployed Link:-https://campus-q.onrender.com/
 
 CampusQ is a 1-day hackathon MVP focused on a stable demo flow: students pre-order food, choose pickup slots, pay online, and track order status live while canteen owners manage incoming orders in realtime.
 
